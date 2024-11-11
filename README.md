@@ -2,6 +2,8 @@
 
 This is a simple, interactive color-guessing game built with HTML, CSS, and JavaScript. The objective is to guess the correct RGB color displayed at the top of the page by selecting one of the colored squares. The game includes two difficulty modes: Easy and Hard.
 
+ - [GitHub Pages to try this game](https://sandoropiok.github.io/color-guessing-game/)
+
 ## 👀 Project Overview
 
 The Color Guessing Game generates random colors for a grid of squares and challenges the player to pick the correct color based on an RGB value displayed at the top. When the player guesses correctly, the page color changes to indicate success. This project helps reinforce fundamental web development skills, including DOM manipulation, event handling, and basic game logic.
